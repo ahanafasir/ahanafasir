@@ -4,10 +4,9 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my portfolio projects
-- 🌱 I’m currently learning JavaScript and frontend libraries
-- 👯 I’m looking to collaborate on UI projects
-- 🤔 I’m looking for help with application UI development
+- QA @ Bevy
+- 🌱 I’m currently learning automated testing
+- 👯 I’m looking to collaborate on automation
+- 🤔 I’m looking for help with testing frameworks
 - 📫 How to reach me: ahanafasir83@gmail.com
 - ✉️ Portfolio: https://ahanafasir.netlify.app/
-- 💻 Latest work: https://o-mnifood.netlify.app/
